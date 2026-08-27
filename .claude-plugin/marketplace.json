@@ -1,0 +1,23 @@
+{
+  "name": "socialspire",
+  "owner": {
+    "name": "SocialSpire"
+  },
+  "description": "Founder tools built from a documented insight library.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "founder-tools",
+      "displayName": "Founder Tools",
+      "source": "./plugins/founder-tools",
+      "description": "Ten tools for pre-revenue founders. Price a thing, grade your copy, run a buyer conversation, find who faced this before, and seat a council of documented founders on one hard decision.",
+      "version": "1.0.0",
+      "author": {
+        "name": "SocialSpire"
+      },
+      "license": "UNLICENSED",
+      "category": "productivity",
+      "keywords": ["founder", "pricing", "copywriting", "customer-research", "decision-making"]
+    }
+  ]
+}
