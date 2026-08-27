@@ -21,8 +21,8 @@ carry the detail and the skill is not allowed to invent any.
 
 ## Install it
 
-Nothing to do here. This tool installed with the rest of them in one step.
-The classroom lesson **Install the tools** covers it once, in about three minutes.
+You install this one on its own, from its course in the classroom. Two minutes.
+It does not touch any of the other four, and you can add them later or not at all.
 
 ## Use it
 
