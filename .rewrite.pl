@@ -1,0 +1,13 @@
+local $/;
+$_ = <>;
+s/The `reference\/` folder next to this file\.\s*\n?\s*Two files: `deck\.md` and\s*\n?\s*`procedures\.md`\./Parts 2 and 3 of this file. Nothing else./g;
+s/`reference\/procedures\.md`/Part 3 of this file/g;
+s/`reference\/deck\.md`/Part 2 of this file/g;
+s/`procedures\.md`/Part 3 of this file/g;
+s/`deck\.md`/Part 2 of this file/g;
+s/\bfrom procedures\.md/from Part 3/g;
+s/\bfrom deck\.md/from Part 2/g;
+s/\bin procedures\.md/in Part 3/g;
+s/\bin deck\.md/in Part 2/g;
+s/`reference\/`/Parts 2 and 3 of this file/g;
+print;
