@@ -1,49 +1,50 @@
 # SocialSpire Founder Tools
 
-Ten tools for pre-revenue founders, packaged as one Claude plugin.
+Five founders' documented decision procedures, packaged as one Claude plugin.
+Each one runs on your real work and hands back an artifact, not an essay.
 
 ## Install
 
-**Claude Cowork / Claude desktop app**
-Customize → Plugins → Add marketplace → paste `socialspire/founder--tools` → Install.
+**Claude Chat, Cowork, or the desktop app**
+Customize → Plugins → Add marketplace → paste `socialspire/founder-tools` → Install.
 
 **Claude Code**
 
 ```
-/plugin marketplace add socialspire/founder--tools
+/plugin marketplace add socialspire/founder-tools
 /plugin install founder-tools@socialspire
 ```
 
+One install gives you all five.
+
 ## What is in it
 
-| Skill | What you type |
-|---|---|
-| `founder-council` | council this: should I launch at $49 or $500 |
-| `evidence-script` | I have a buyer call tomorrow |
-| `say-the-price` | what should I charge |
-| `sell-or-else` | review my landing page |
-| `who-faced-this` | my biggest client is 60% of my revenue |
-| `elon-musk` | run the algorithm on this |
-| `jeff-bezos` | write the PR/FAQ for this |
-| `john-d-rockefeller` | audit my costs |
-| `steve-jobs` | cut this to the gems |
-| `henry-ford` | price this down |
+| Founder | What it does | What you type |
+|---|---|---|
+| Elon Musk | The Algorithm, the Idiot Index, drilling to the limiting factor | run the algorithm on this |
+| Jeff Bezos | The PR/FAQ written backwards, the one-way door sort, the store walk | write the PR/FAQ for this |
+| John D. Rockefeller | Unit-cost sheet, daily sheet, operator ledger, campaign brief | audit my costs |
+| Steve Jobs | The demo review, cut to the gems, the cold read, the road-map pitch | cut this to the gems |
+| Henry Ford | Price-first cost teardown, the deletion pass, the service statement test | price-first this offer |
 
-You do not need slash commands. Say the thing in your own words and the right
-tool picks itself up.
+You do not need slash commands. Describe your situation and name the founder,
+and the right tool picks itself up.
 
-`henry-ford` carries a note on the man's documented antisemitism, stated plainly
-before any method. The tool confirms it without hedging if you raise it, and does
-not defend him.
+## What these are not
+
+None of these speak as the person. They do not use first person for them, do not
+write dialogue for them, and never render anything as a quotation. The reference
+material is biographers and essayists writing about them, not transcripts, so a
+quotation mark would be a claim about words nobody here has checked.
 
 ## Where the answers come from
 
-Every factual claim in these tools was extracted from a documented insight
-library, then checked by a separate verifier that traced each claim back to its
-source file. Anything that could not be traced was removed.
+Every factual claim was extracted from a documented insight library, then checked
+by a separate verifier that traced each claim back to its source file. Anything
+that could not be traced was removed.
 
-None of these tools search the web. None of them use general knowledge about the
-people they name. If a source file does not cover something, the tool says so.
+None of these tools search the web. None use general knowledge about the people
+they name. If a source file does not cover something, the tool says so.
 
 ## Support
 
