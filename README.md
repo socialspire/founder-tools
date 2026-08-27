@@ -5,12 +5,12 @@ Ten tools for pre-revenue founders, packaged as one Claude plugin.
 ## Install
 
 **Claude Cowork / Claude desktop app**
-Customize → Plugins → Add marketplace → paste `socialspire/founder-tools` → Install.
+Customize → Plugins → Add marketplace → paste `socialspire/founder--tools` → Install.
 
 **Claude Code**
 
 ```
-/plugin marketplace add socialspire/founder-tools
+/plugin marketplace add socialspire/founder--tools
 /plugin install founder-tools@socialspire
 ```
 
