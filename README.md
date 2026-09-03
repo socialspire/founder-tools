@@ -1,9 +1,9 @@
 # SocialSpire Founder Tools
 
-Five founders' documented decision procedures. **Each installs on its own.**
-Take one, use it on real work, and add another when you want it.
+Courses of tools built from what history's greatest founders actually did.
+**Each course installs on its own.** Take the one that matches your week.
 
-## Connect the library, once
+## Connect the marketplace, once
 
 **Claude Chat, Cowork, or the desktop app**
 Customize → Plugins → Add marketplace → paste `socialspire/founder-tools`.
@@ -16,29 +16,58 @@ Customize → Plugins → Add marketplace → paste `socialspire/founder-tools`.
 
 Nothing is installed yet. This just lets your Claude see what is available.
 
-## Then install one
-
-Pick the one whose course you are working through. In the app, click Install on
-that founder. In Claude Code:
+## Then install a course
 
 ```
-/plugin install jeff-bezos@socialspire
+/plugin install selling-it-yourself@socialspire
 ```
 
-Swap `jeff-bezos` for `henry-ford`, `steve-jobs`, `elon-musk` or
-`john-d-rockefeller` when you get to them.
+## The courses
 
-## The five
+### Selling It Yourself
 
-| Founder | The four procedures |
+For a founder still doing the selling personally, whose deals stall in the
+middle. People take the meeting, say it looks interesting, ask for a discount,
+then go quiet.
+
+| Skill | What it does |
 |---|---|
-| **Jeff Bezos** | The PR/FAQ written backwards from the customer · The one-way / two-way door sort, decided at seventy percent · The weekend store walk and the rivets pass · The blind value audit against the rival's own list |
-| **Henry Ford** | The price-first cost teardown · The deletion pass · The service statement test · The incumbent burden total |
-| **Steve Jobs** | The demo review · Cut to the gems · The cold read · The road-map pitch |
-| **Elon Musk** | The Algorithm · The Idiot Index · Drill to the limiting factor of the limiting factor · Get to reality |
-| **John D. Rockefeller** | The solder-drop cost audit · The daily sheet and the single-pass desk · The ranked operator ledger · Plan boldly, implement carefully |
+| **the-buyer-sort** | Splits your open deals into the buyers who already understand you, the ones you are still explaining yourself to, and the ones whose own revenue makes yes impossible. Then asks the one question that can move a dead deal, and names who actually signs on every row |
+| **the-five-second-proof** | Turns your biggest claim into something a buyer watches happen in under a minute, with the buyer supplying the input, that could visibly fail and does not. Refuses hedged claims, including rates and results the buyer cannot watch now |
+| **the-objection-ledger** | Counts which doubts appear only in the deals that died, so you build proof against those and not the ones buyers raise and buy anyway. Answers each live one by pointing at a market the buyer already pays into, and makes you rehearse the ask out loud before the room |
+| **the-price-hold** | Decides before the conversation what you will do when the buyer says the number is too high. Needs the real cost to deliver this deal, writes the walk-away first, permits one counter, and swaps terms instead of margin when the objection is timing or risk rather than money |
 
-You do not need slash commands. Describe your situation and name the founder.
+Run them in that order. Sorting the pipeline first tells you which deals are
+worth building a proof for. The ledger tells you which doubts the proof has to
+answer. The hold is for the moment the number comes up.
+
+Each skill carries a bank of verified historical cases, thirty-four to
+forty-four of them, most of which nobody volunteers. Each one also carries a
+list of what its sources hold no case of, and says so when your situation
+touches one.
+
+## Which model to run these on
+
+Sonnet 5 or better. Every skill here was tested cell by cell against its own
+model's cold answer on Haiku 4.5, Sonnet 5, Opus 5 and Fable 5.1.
+
+On Sonnet 5, Opus 5 and Fable 5.1 the skills hold: shorter than the same
+model answering cold, one dated action per item with the message written out,
+and a single block of specific questions at the end.
+
+On Haiku 4.5 the answers are still better than that model answering cold, and
+the judges said so. What Haiku does not hold reliably is the discipline: it
+runs past the word cap, states a few facts the member never gave, and drops a
+required section. Use it if that is what you have, and read the output before
+you send anything from it.
+
+## The five founder skills
+
+The founders are no longer in this marketplace. They are distributed as
+downloadable files in the community instead, one per founder: Jeff Bezos, Henry
+Ford, Steve Jobs, Elon Musk and John D. Rockefeller.
+
+Nothing about them changed. Download the one you want and drop it in.
 
 ## What these are not
 

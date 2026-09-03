@@ -3,63 +3,29 @@
   "owner": {
     "name": "SocialSpire"
   },
-  "description": "Five founders' documented methods. Install them one at a time.",
-  "version": "3.0.0",
+  "description": "Courses of tools built from what history's greatest founders actually did. Install the course that matches your week.",
+  "version": "4.5.0",
   "plugins": [
     {
-      "name": "jeff-bezos",
-      "displayName": "Jeff Bezos",
-      "source": "./plugins/jeff-bezos",
-      "description": "Work backwards from the customer. The PR/FAQ, the one-way door sort decided at seventy percent, the weekend store walk, and the blind value audit.",
-      "version": "3.0.0",
-      "author": { "name": "SocialSpire" },
+      "name": "selling-it-yourself",
+      "displayName": "Selling It Yourself",
+      "source": "./plugins/selling-it-yourself",
+      "description": "For a founder still doing the selling personally, whose deals stall in the middle. Sort the pipeline into who can actually say yes, prove the claim with the buyer supplying the input, count which objections actually kill deals, and hold the price when the buyer pushes. Four skills, each carrying a bank of verified historical cases.",
+      "version": "2.1.0",
+      "author": {
+        "name": "SocialSpire"
+      },
       "license": "UNLICENSED",
       "category": "productivity",
-      "keywords": ["founder", "product", "customer-research", "decision-making"]
-    },
-    {
-      "name": "henry-ford",
-      "displayName": "Henry Ford",
-      "source": "./plugins/henry-ford",
-      "description": "Set the price first, then find the cost that fits it. The price-first cost teardown, the deletion pass, the service statement test, and the incumbent burden total.",
-      "version": "3.0.0",
-      "author": { "name": "SocialSpire" },
-      "license": "UNLICENSED",
-      "category": "productivity",
-      "keywords": ["founder", "pricing", "cost", "operations"]
-    },
-    {
-      "name": "steve-jobs",
-      "displayName": "Steve Jobs",
-      "source": "./plugins/steve-jobs",
-      "description": "Subtract until the thing is comprehensible. The demo review, cut to the gems, the cold read, and the road-map pitch.",
-      "version": "3.0.0",
-      "author": { "name": "SocialSpire" },
-      "license": "UNLICENSED",
-      "category": "productivity",
-      "keywords": ["founder", "product", "simplification", "pitch"]
-    },
-    {
-      "name": "elon-musk",
-      "displayName": "Elon Musk",
-      "source": "./plugins/elon-musk",
-      "description": "Make the requirements less dumb, then delete the part. The Algorithm, the Idiot Index, drilling to the limiting factor of the limiting factor, and getting to reality.",
-      "version": "3.0.0",
-      "author": { "name": "SocialSpire" },
-      "license": "UNLICENSED",
-      "category": "productivity",
-      "keywords": ["founder", "process", "cost", "bottleneck"]
-    },
-    {
-      "name": "john-d-rockefeller",
-      "displayName": "John D. Rockefeller",
-      "source": "./plugins/john-d-rockefeller",
-      "description": "Know your unit cost to the decimal. The solder-drop cost audit, the daily sheet, the ranked operator ledger, and planning boldly while implementing carefully.",
-      "version": "3.0.0",
-      "author": { "name": "SocialSpire" },
-      "license": "UNLICENSED",
-      "category": "productivity",
-      "keywords": ["founder", "cost", "operations", "hiring"]
+      "keywords": [
+        "sales",
+        "pipeline",
+        "deals",
+        "demo",
+        "objections",
+        "pricing",
+        "founder"
+      ]
     }
   ]
 }

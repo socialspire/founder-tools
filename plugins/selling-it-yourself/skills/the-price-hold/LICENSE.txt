@@ -1,0 +1,9 @@
+Copyright (c) 2026 SocialSpire LLC. All rights reserved.
+
+UNLICENSED. This skill is distributed to members of the SocialSpire community
+and may not be redistributed, resold, or republished without written permission.
+
+The principles this skill reasons from were extracted from published books.
+Those books remain the property of their authors and publishers. Nothing here
+reproduces their text. Every claim is paraphrased and attributed to the book it
+came from, and no phrase is presented as a direct quotation.
