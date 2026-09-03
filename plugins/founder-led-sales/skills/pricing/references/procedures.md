@@ -1,4 +1,4 @@
-# Procedures: The Price Hold
+# Procedures: Pricing
 
 Two procedures, written as instructions to the AI running them on a member's
 real material.
@@ -135,7 +135,7 @@ with the member's name on it.
    unasked: their number, marked volunteered, and the run continues; do not
    send the member to ask a question the buyer has already answered. No
    number at all: the run stops at that line of the card. This is a stop, not
-   a refusal. The Price Hold Card is returned with THE RULING and OUTCOME
+   a refusal. Pricing Card is returned with THE RULING and OUTCOME
    marked not reached and the full output block, THE NUMBER THAT HOLDS is
    the walk-away, and DO THIS WEEK is the question to the buyer. Murphy asked
    first, every time.
@@ -218,7 +218,7 @@ ruling is walk.
 ## Stop condition
 
 **The buyer has not been asked what they think it is worth and has not
-volunteered a number.** This returns the Price Hold Card, not the Refusal
+volunteered a number.** This returns the Pricing Card, not the Refusal
 Card, stopped at THEIR NUMBER, with the full output block. DO THIS WEEK is
 the question.
 

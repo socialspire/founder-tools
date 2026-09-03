@@ -1,4 +1,4 @@
-# Precedent Bank: The Objection Ledger
+# Precedent Bank: The Objection Tracker
 
 Thirty-six cards, every one traced to a named file in
 `socialspire/skool/insights/`.

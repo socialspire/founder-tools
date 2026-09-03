@@ -1,4 +1,4 @@
-# Procedures: The Objection Ledger
+# Procedures: The Objection Tracker
 
 Three procedures, written as instructions to the AI running them on a member's
 real material.

@@ -1,6 +1,6 @@
-# The Objection Ledger
+# The Objection Tracker
 
-Part of **Founder Led Sales**. Version 1.8.
+Part of **Founder Led Sales**. Version 2.0.0
 
 You keep hearing the same things. Too expensive. We already have something.
 Not this quarter. You have an answer for each one, and you keep losing

@@ -1,6 +1,6 @@
-# The Five-Second Proof
+# The Five Second Test
 
-Part of **Founder Led Sales**. Version 2.7.
+Part of **Founder Led Sales**. Version 3.0.0
 
 You have a claim about your product that you believe and your buyers do not.
 They take the meeting, say it sounds interesting, and go quiet.

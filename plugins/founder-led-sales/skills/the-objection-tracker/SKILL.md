@@ -1,16 +1,16 @@
 ---
-name: the-objection-ledger
+name: the-objection-tracker
 description: Separates the doubts that kill your deals from the doubts buyers raise and buy anyway, answers each live one by pointing at a market the buyer already accepts, and makes you rehearse before the room. Use for "how do I handle this objection", "they said it's too expensive", "they keep raising the same thing", "prep me for this meeting", or "rehearse my pitch".
 license: UNLICENSED
 metadata:
-  version: "1.8.1"
+  version: "2.0.0"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The stack, The precedent answer, The rehearsal"
   bank: "36 verified precedent cards, indexed by situation"
 ---
 
-# The Objection Ledger
+# The Objection Tracker
 
 Most objections are not what kills a deal. Buyers say things and buy anyway.
 This skill counts which doubts appear only in the deals that died, answers

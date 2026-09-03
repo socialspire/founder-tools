@@ -1,4 +1,4 @@
-# Procedures: The Five-Second Proof
+# Procedures: The Five Second Test
 
 Two procedures, written as instructions to the AI running them on a member's
 real material.
@@ -17,7 +17,7 @@ prose to ask.
 
 | What the member brought | Run | Bank sections |
 |---|---|---|
-| A claim buyers do not act on. Interest, then silence. A deck that is not landing. Nothing has ever been shown, or what has been shown fails the proof gate below. | The Five-Second Proof | A, B, C, E, F, G, I, plus H if they sell a service or software or the product is not built |
+| A claim buyers do not act on. Interest, then silence. A deck that is not landing. Nothing has ever been shown, or what has been shown fails the proof gate below. | The Five Second Test | A, B, C, E, F, G, I, plus H if they sell a service or software or the product is not built |
 | A demonstration that passes the proof gate and still does not land. A buyer environment that flattens an advantage that has already been shown. | The Rigged Room | D, C, G, I |
 
 **The proof gate runs first.** A demonstration counts as a proof only if all
@@ -72,7 +72,7 @@ output block shrinks to two lines: STANDS ON and NO CASE LIKE YOURS ON RECORD. T
 
 ---
 
-# 1. The Five-Second Proof
+# 1. The Five Second Test
 
 ## What it is
 
@@ -343,7 +343,7 @@ worse than not demonstrating.
 
 Return the Refusal Card. The narrower-claim line names the one thing the
 alternative genuinely cannot deliver in time, however small, and The
-Five-Second Proof is what runs next.
+Five Second Test is what runs next.
 
 > Receipt: Michelin's edge was a tyre that changed in minutes rather than half a
 > day, so they staged their own race, required Michelin tyres to enter, and

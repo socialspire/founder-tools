@@ -1,4 +1,4 @@
-# Precedent Bank: The Price Hold
+# Precedent Bank: Pricing
 
 Thirty-four cards, every one traced to a named file in
 `socialspire/skool/insights/`.

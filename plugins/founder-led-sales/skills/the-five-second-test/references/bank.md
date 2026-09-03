@@ -1,4 +1,4 @@
-# Precedent Bank: The Five-Second Proof
+# Precedent Bank: The Five Second Test
 
 Thirty-five cards, every one traced to a named file in
 `socialspire/skool/insights/`. This replaces the seven-principle deck of v1.

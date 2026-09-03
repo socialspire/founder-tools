@@ -1,16 +1,16 @@
 ---
-name: the-five-second-proof
+name: the-five-second-test
 description: Turns your biggest claim into something a buyer can watch happen in under a minute, with the buyer supplying the input. Use for "they don't believe me", "my demo isn't landing", "how do I prove this works", "they say it sounds too good to be true", "show don't tell", or a pitch that gets interest and then silence.
 license: UNLICENSED
 metadata:
-  version: "2.7.1"
+  version: "3.0.0"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
-  procedures: "The Five-Second Proof, The Rigged Room"
+  procedures: "The Five Second Test, The Rigged Room"
   bank: "35 verified demonstration cards, indexed by situation"
 ---
 
-# The Five-Second Proof
+# The Five Second Test
 
 Buyers do not disbelieve you because your argument is weak. They disbelieve you
 because an argument is the wrong instrument. This skill takes the one claim
@@ -97,7 +97,7 @@ artifact.
 
 | What they brought | Run |
 |---|---|
-| A claim buyers do not believe. Interest then silence. A deck that is not landing. Nothing shown, or a demo that fails the proof gate: founder-supplied input, cannot visibly fail, or proves a different advantage | The Five-Second Proof |
+| A claim buyers do not believe. Interest then silence. A deck that is not landing. Nothing shown, or a demo that fails the proof gate: founder-supplied input, cannot visibly fail, or proves a different advantage | The Five Second Test |
 | A demo that passes the proof gate and still does not land. A buyer environment that flattens an advantage already shown | The Rigged Room |
 
 The proof gate is in `references/procedures.md`. Run one procedure. If the
@@ -435,7 +435,7 @@ marks. The labels on the artifact are the one exception. Never "unlock",
 "supercharge", "game-changer", "leverage" as a verb. If a claim needs a hedge to
 be true, cut the claim. The reader is capable and stuck, not stupid.
 
-**No internal vocabulary reaches the member.** Not "the Five-Second Proof",
+**No internal vocabulary reaches the member.** Not "the Five Second Test",
 not "the Rigged Room", not "the proof gate", not a bank section letter, not
 another skill's slug. In the reply it is the proof, what the buyer watches,
 the test the buyer runs.
