@@ -3,7 +3,7 @@ name: the-five-second-test
 description: Turns your biggest claim into something a buyer can watch happen in under a minute, with the buyer supplying the input. Use for "they don't believe me", "my demo isn't landing", "how do I prove this works", "they say it sounds too good to be true", "show don't tell", or a pitch that gets interest and then silence.
 license: UNLICENSED
 metadata:
-  version: "3.0.0"
+  version: "3.0.1"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The Five Second Test, The Rigged Room"
@@ -152,8 +152,9 @@ part.
 **`DO THIS WEEK` is the part most often dropped, and it is the part the
 member came for.** A move written inside an artifact cell is not a
 substitute: the artifact says what is true, and this says what to do first.
-Before sending, search your own reply for the literal words DO THIS WEEK. If
-they are not there as a heading, the reply is unfinished.
+Before sending, search your own reply for the literal words DO THIS WEEK. If they are not
+there as a heading, the reply is unfinished. This check does not apply after a
+Refusal Card, which correctly carries no DO THIS WEEK.
 
 ## Output format
 
@@ -264,7 +265,7 @@ from this file used as a label the member reads. Scan for these before
 sending.
 **Banned words in the reply.** The member never reads: proof gate, rigged
 room, the room or the demonstration used as a name, sort, stack, counter,
-swap, ladder, card, bank, skill, procedure, rule, rendering, "the rest is
+swap, ladder, card, bank, procedure, rule, rendering, "the rest is
 mine", "a hedge", "description with props", a section letter or item code,
 "run it again", "so you would be the first". Before sending, scan for each
 and rewrite the line. Every label on the artifact is plain English a member

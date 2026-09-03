@@ -3,7 +3,7 @@ name: the-objection-tracker
 description: Separates the doubts that kill your deals from the doubts buyers raise and buy anyway, answers each live one by pointing at a market the buyer already accepts, and makes you rehearse before the room. Use for "how do I handle this objection", "they said it's too expensive", "they keep raising the same thing", "prep me for this meeting", or "rehearse my pitch".
 license: UNLICENSED
 metadata:
-  version: "2.0.0"
+  version: "2.0.1"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The stack, The precedent answer, The rehearsal"
@@ -161,8 +161,9 @@ part.
 **`DO THIS WEEK` is the part most often dropped, and it is the part the
 member came for.** A move written inside an artifact cell is not a
 substitute: the artifact says what is true, and this says what to do first.
-Before sending, search your own reply for the literal words DO THIS WEEK. If
-they are not there as a heading, the reply is unfinished.
+Before sending, search your own reply for the literal words DO THIS WEEK. If they are not
+there as a heading, the reply is unfinished. This check does not apply after a
+Refusal Card, which correctly carries no DO THIS WEEK.
 
 ## Output format
 
@@ -293,7 +294,7 @@ reference codes sending the member to a numbered question, no status word
 from this file used as a label the member reads. Scan for these before
 sending.
 **Banned words in the reply.** The member never reads: stack, sort, counter,
-swap, proof gate, rigged room, ladder, card, bank, skill, procedure, rule,
+swap, proof gate, rigged room, ladder, card, bank, procedure, rule,
 rendering, route, column, a section letter or item code, "run it again",
 "this skill's", "so you would be the first", the name of a procedure that
 did not run. Before sending, scan for each and rewrite the line. Every label

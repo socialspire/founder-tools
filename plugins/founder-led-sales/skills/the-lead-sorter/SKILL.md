@@ -3,7 +3,7 @@ name: the-lead-sorter
 description: Sorts your open deals into the buyers who already understand you, the ones you are still explaining yourself to, and the ones whose own revenue makes yes impossible. Use for "sort my pipeline", "who should I stop chasing", "why won't they buy", "am I pitching the wrong people", or deals that stall after interest.
 license: UNLICENSED
 metadata:
-  version: "3.0.0"
+  version: "3.0.1"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The sort, The target list"
@@ -172,7 +172,8 @@ part.
 member came for.** A move written inside a sheet cell is not a substitute:
 the sheet says what is true, and this says what to do first. Before sending,
 search your own reply for the literal words DO THIS WEEK. If they are not
-there as a heading, the reply is unfinished.
+there as a heading, the reply is unfinished. This check does not apply after a
+Refusal Card, which correctly carries no DO THIS WEEK.
 
 ## Output format
 
@@ -286,7 +287,7 @@ reference codes sending the member to a numbered question, no status word
 from this file used as a label the member reads. Scan for these before
 sending.
 **Banned words in the reply.** The member never reads: sort, stack, counter,
-swap, proof gate, rigged room, ladder, card, bank, skill, procedure, rule,
+swap, proof gate, rigged room, ladder, card, bank, procedure, rule,
 rendering, route, column, test used as a name, a founder's name attached to a
 test, a section letter or item code, "run it again", "this skill's", "the
 rest is mine", "so you would be the first". Before sending, scan for each and

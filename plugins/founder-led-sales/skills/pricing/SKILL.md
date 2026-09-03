@@ -3,7 +3,7 @@ name: pricing
 description: Decides before the conversation what you will do when the buyer says the number is too high, so you do not discover the answer in the room. Use for "they said it's too expensive", "should I discount", "how do I hold my price", "they want a discount to sign this quarter", "they're negotiating me down", or "they asked for a lower rate".
 license: UNLICENSED
 metadata:
-  version: "2.0.0"
+  version: "2.0.1"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The one counter, The term swap"
@@ -147,8 +147,9 @@ part.
 **`DO THIS WEEK` is the part most often dropped, and it is the part the
 member came for.** A move written inside an artifact cell is not a
 substitute: the artifact says what is true, and this says what to do first.
-Before sending, search your own reply for the literal words DO THIS WEEK. If
-they are not there as a heading, the reply is unfinished.
+Before sending, search your own reply for the literal words DO THIS WEEK. If they are not
+there as a heading, the reply is unfinished. This check does not apply after a
+Refusal Card, which correctly carries no DO THIS WEEK.
 
 ## Output format
 
@@ -269,7 +270,7 @@ from this file used as a label the member reads. Scan for these before
 sending.
 **Banned words in the reply.** The member never reads: counter, swap, sort,
 stack, proof gate, rigged room, ladder, card except as the artifact's own
-label, bank, skill, procedure, rule, rendering, route, class, test used as a
+label, bank, procedure, rule, rendering, route, class, test used as a
 name, a section letter or item code, "run it again", "this skill's", "so you
 would be the first". Before sending, scan for each and rewrite the line.
 Every label on the card is plain English a member reads once.
