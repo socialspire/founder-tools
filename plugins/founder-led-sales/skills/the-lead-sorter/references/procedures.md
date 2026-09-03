@@ -1,4 +1,4 @@
-# Procedures: The Buyer Sort
+# Procedures: The Lead Sorter
 
 Two procedures, written as instructions to the AI running them on a member's
 real material.
@@ -370,8 +370,7 @@ FROM THE LIST as "nothing known". The card returns only when no name survives.
 
 ## Notes for both procedures
 
-**The artifact is the deliverable, and there is always one.** THE BUYER SORT
-SHEET, THE TARGET LIST, or THE REFUSAL CARD. No fourth outcome on a run. An
+**The artifact is the deliverable, and there is always one.** WHO CAN SAY YES, THE TARGET LIST, or THE REFUSAL CARD. No fourth outcome on a run. An
 argument turn re-issues the contested row; see SKILL.md.
 
 **The Gould test rests on one precedent and the sheet says so.** Do not

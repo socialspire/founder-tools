@@ -1,6 +1,6 @@
 # The Five-Second Proof
 
-Part of **Selling It Yourself**. Version 2.7.
+Part of **Founder Led Sales**. Version 2.7.
 
 You have a claim about your product that you believe and your buyers do not.
 They take the meeting, say it sounds interesting, and go quiet.
@@ -102,7 +102,7 @@ You need the marketplace added once. In Claude Code:
 Then install the course:
 
 ```bash
-/plugin install selling-it-yourself@socialspire
+/plugin install founder-led-sales@socialspire
 ```
 
 Start a new conversation and type what is actually happening:

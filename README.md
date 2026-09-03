@@ -19,12 +19,12 @@ Nothing is installed yet. This just lets your Claude see what is available.
 ## Then install a course
 
 ```
-/plugin install selling-it-yourself@socialspire
+/plugin install founder-led-sales@socialspire
 ```
 
 ## The courses
 
-### Selling It Yourself
+### Founder Led Sales
 
 For a founder still doing the selling personally, whose deals stall in the
 middle. People take the meeting, say it looks interesting, ask for a discount,
@@ -32,7 +32,7 @@ then go quiet.
 
 | Skill | What it does |
 |---|---|
-| **the-buyer-sort** | Splits your open deals into the buyers who already understand you, the ones you are still explaining yourself to, and the ones whose own revenue makes yes impossible. Then asks the one question that can move a dead deal, and names who actually signs on every row |
+| **the-lead-sorter** | Splits your open deals into the buyers who already understand you, the ones you are still explaining yourself to, and the ones whose own revenue makes yes impossible. Then asks the one question that can move a dead deal, and names who actually signs on every row |
 | **the-five-second-proof** | Turns your biggest claim into something a buyer watches happen in under a minute, with the buyer supplying the input, that could visibly fail and does not. Refuses hedged claims, including rates and results the buyer cannot watch now |
 | **the-objection-ledger** | Counts which doubts appear only in the deals that died, so you build proof against those and not the ones buyers raise and buy anyway. Answers each live one by pointing at a market the buyer already pays into, and makes you rehearse the ask out loud before the room |
 | **the-price-hold** | Decides before the conversation what you will do when the buyer says the number is too high. Needs the real cost to deliver this deal, writes the walk-away first, permits one counter, and swaps terms instead of margin when the objection is timing or risk rather than money |

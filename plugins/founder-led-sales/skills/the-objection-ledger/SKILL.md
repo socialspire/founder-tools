@@ -3,8 +3,8 @@ name: the-objection-ledger
 description: Separates the doubts that kill your deals from the doubts buyers raise and buy anyway, answers each live one by pointing at a market the buyer already accepts, and makes you rehearse before the room. Use for "how do I handle this objection", "they said it's too expensive", "they keep raising the same thing", "prep me for this meeting", or "rehearse my pitch".
 license: UNLICENSED
 metadata:
-  version: "1.8.0"
-  course: "Selling It Yourself"
+  version: "1.8.1"
+  course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The stack, The precedent answer, The rehearsal"
   bank: "36 verified precedent cards, indexed by situation"

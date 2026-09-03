@@ -1,16 +1,16 @@
 ---
-name: the-buyer-sort
+name: the-lead-sorter
 description: Sorts your open deals into the buyers who already understand you, the ones you are still explaining yourself to, and the ones whose own revenue makes yes impossible. Use for "sort my pipeline", "who should I stop chasing", "why won't they buy", "am I pitching the wrong people", or deals that stall after interest.
 license: UNLICENSED
 metadata:
-  version: "2.9.0"
-  course: "Selling It Yourself"
+  version: "3.0.0"
+  course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The sort, The target list"
   bank: "44 verified precedent cards, indexed by situation"
 ---
 
-# The Buyer Sort
+# The Lead Sorter
 
 Most stalled pipelines are not a persuasion problem. They are a sorting problem.
 Some of the people in there were never able to say yes, and no amount of
@@ -452,9 +452,10 @@ marks. The labels on the sheet are the one exception. Never "unlock",
 "supercharge", "game-changer", "leverage" as a verb. If a claim needs a hedge to
 be true, cut the claim. The reader is capable and stuck, not stupid.
 
-**No internal vocabulary reaches the member.** Not "Excited-Buyer Sort", not
+**No internal vocabulary reaches the member.** Not "the lead sort", not
 "Named Five", not "column three", not "the sort", not "the Gould test", not a
-bank section letter, not another skill's slug. In the reply it is the sheet,
+bank section letter, not another skill's slug, and not this skill's own
+name. In the reply it is the sheet,
 the buyers who cannot say yes, the version they could buy, and the skill that
 builds the demonstration. A founder reading on a phone should never have to
 ask what a word means.

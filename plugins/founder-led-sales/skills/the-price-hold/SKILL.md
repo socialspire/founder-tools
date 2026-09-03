@@ -3,8 +3,8 @@ name: the-price-hold
 description: Decides before the conversation what you will do when the buyer says the number is too high, so you do not discover the answer in the room. Use for "they said it's too expensive", "should I discount", "how do I hold my price", "they want a discount to sign this quarter", "they're negotiating me down", or "they asked for a lower rate".
 license: UNLICENSED
 metadata:
-  version: "1.8.0"
-  course: "Selling It Yourself"
+  version: "1.8.1"
+  course: "Founder Led Sales"
   corpus: "socialspire/skool/insights — 7,718 principles, 206 sources"
   procedures: "The one counter, The term swap"
   bank: "34 verified precedent cards, indexed by situation"

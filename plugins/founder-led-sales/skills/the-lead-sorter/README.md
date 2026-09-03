@@ -1,6 +1,6 @@
-# The Buyer Sort
+# The Lead Sorter
 
-Part of **Selling It Yourself**. Version 2.9.
+Part of **Founder Led Sales**. Version 2.9.
 
 You have open deals that will not close. People took the meeting, said it looked
 interesting, and went quiet. You are following up with all of them because you
@@ -116,7 +116,7 @@ You need the marketplace added once. In Claude Code:
 Then install the course:
 
 ```bash
-/plugin install selling-it-yourself@socialspire
+/plugin install founder-led-sales@socialspire
 ```
 
 Start a new conversation and paste what you have:

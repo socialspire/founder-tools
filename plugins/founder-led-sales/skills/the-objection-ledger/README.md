@@ -1,6 +1,6 @@
 # The Objection Ledger
 
-Part of **Selling It Yourself**. Version 1.8.
+Part of **Founder Led Sales**. Version 1.8.
 
 You keep hearing the same things. Too expensive. We already have something.
 Not this quarter. You have an answer for each one, and you keep losing
@@ -102,7 +102,7 @@ You need the marketplace added once. In Claude Code:
 Then install the course:
 
 ```bash
-/plugin install selling-it-yourself@socialspire
+/plugin install founder-led-sales@socialspire
 ```
 
 Start a new conversation and paste what you have:

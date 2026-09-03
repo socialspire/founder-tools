@@ -1,6 +1,6 @@
 # The Price Hold
 
-Part of **Selling It Yourself**. Version 1.8.
+Part of **Founder Led Sales**. Version 1.8.
 
 The buyer says the number is too high. You have about four seconds. Whatever
 you decide in those four seconds is what you will charge, and it will be less
@@ -118,7 +118,7 @@ You need the marketplace added once. In Claude Code:
 Then install the course:
 
 ```bash
-/plugin install selling-it-yourself@socialspire
+/plugin install founder-led-sales@socialspire
 ```
 
 Start a new conversation and paste what you have:
