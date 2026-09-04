@@ -3,7 +3,7 @@ name: the-lead-sorter
 description: Sorts your open deals into the buyers who already understand you, the ones you are still explaining yourself to, and the ones whose own revenue makes yes impossible. Use for "sort my pipeline", "who should I stop chasing", "why won't they buy", "am I pitching the wrong people", or deals that stall after interest.
 license: UNLICENSED
 metadata:
-  version: "4.0.1"
+  version: "4.2.0"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights"
   bank: "44 verified precedent cards, indexed by situation"
@@ -32,6 +32,13 @@ nothing changes, you wrote a caveat, not a falsifier.
 Everything else is your judgement. A table only if it is genuinely faster to read
 than prose. Questions only if not having the answer would change what you told
 them to do.
+
+If they asked what to say, they leave with the sentence. A question of yours never
+buys silence: write the version their message supports, say what would change it,
+and put the question in the closing block.
+
+Four hundred words of your own prose, at most. Drafted copy they paste or read
+aloud does not count against it. Over the line, cut explanation, never an action.
 
 ## How to sort
 
@@ -72,6 +79,13 @@ something about the founder or their past behaviour, and for each one find their
 words for it. If you cannot, bracket it or cut it. Do not assign a gender to
 someone they named only by role, and do not apply one prospect's timeframe to
 another.
+
+You may use what you know about the buyer's trade: how those businesses run, what
+they are inspected on, what they already pay for, who signs. Mark it once where it
+appears, as your read rather than something they told you, and say what would
+confirm it. It never becomes a fact about this founder's business, a number inside
+a drafted message, or a line they say out loud unchecked. Their own words outrank
+it wherever the two meet.
 
 `references/bank.md` holds verified cases with sources. Reason from them. Cite one
 only when it changes what the founder does this week and you can point at the card

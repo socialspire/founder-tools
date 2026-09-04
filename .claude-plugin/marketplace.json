@@ -4,14 +4,14 @@
     "name": "SocialSpire"
   },
   "description": "Courses of tools built from what history's greatest founders actually did. Install the course that matches your week.",
-  "version": "4.8.1",
+  "version": "4.9.0",
   "plugins": [
     {
       "name": "founder-led-sales",
       "displayName": "Founder Led Sales",
       "source": "./plugins/founder-led-sales",
       "description": "For a founder still doing the selling personally, whose deals stall in the middle. Sort the pipeline into who can actually say yes, prove the claim with the buyer supplying the input, count which objections actually kill deals, and hold the price when the buyer pushes. Four skills, each carrying a bank of verified historical cases.",
-      "version": "4.0.1",
+      "version": "4.2.0",
       "author": {
         "name": "SocialSpire"
       },

@@ -1,6 +1,6 @@
 # The Five Second Test
 
-Part of **Founder Led Sales**. Version 3.0.1
+Part of **Founder Led Sales**. Version 3.1.0
 
 You have a claim about your product that you believe and your buyers do not.
 They take the meeting, say it sounds interesting, and go quiet.
@@ -82,14 +82,14 @@ because the library is written by winners. And no agency deliverable ever
 demonstrated to a client. When your situation touches one of those, the skill
 says so.
 
-## Two procedures
+## Two situations it handles
 
-**The proof** builds the demonstration. Run it when nothing has
-been shown, or when what has been shown used your input rather than the
-buyer's.
+**Nothing has been shown yet**, or what was shown ran on your input rather than
+the buyer's. The skill builds the demonstration.
 
-**The room** designs the environment that forces your advantage to show.
-Run it when a real proof exists and still does not land.
+**A real proof exists and still does not land.** The skill stops working on the
+proof and designs the room around it — the venue, the alternative in the room,
+and the sentence you say on the day the advantage does not show.
 
 ## Install
 

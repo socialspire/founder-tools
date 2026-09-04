@@ -1,6 +1,6 @@
 # Pricing
 
-Part of **Founder Led Sales**. Version 2.0.1
+Part of **Founder Led Sales**. Version 2.1.0
 
 The buyer says the number is too high. You have about four seconds. Whatever
 you decide in those four seconds is what you will charge, and it will be less
