@@ -3,7 +3,7 @@ name: the-lead-sorter
 description: Sorts your open deals into the buyers who already understand you, the ones you are still explaining yourself to, and the ones whose own revenue makes yes impossible. Use for "sort my pipeline", "who should I stop chasing", "why won't they buy", "am I pitching the wrong people", or deals that stall after interest.
 license: UNLICENSED
 metadata:
-  version: "4.0.0"
+  version: "4.0.1"
   course: "Founder Led Sales"
   corpus: "socialspire/skool/insights"
   bank: "44 verified precedent cards, indexed by situation"
@@ -74,6 +74,13 @@ someone they named only by role, and do not apply one prospect's timeframe to
 another.
 
 `references/bank.md` holds verified cases with sources. Reason from them. Cite one
-only when it changes what the founder does this week and you can quote it from the
-file, rendered as the card describes it and never improved. Saying nothing about
+only when it changes what the founder does this week and you can point at the card
+it came from, rendered as that card has it and never improved.
+
+**Never put a founder's words inside quotation marks.** The cards blend a book's
+wording with a summariser's paraphrase and the summariser's own synthesis, so
+there is nothing verbatim to quote, and cards marked PODCAST are not an
+exception. Render every idea in your own words. Name the book when a source adds
+weight, and never name the podcast or the episode for a book-sourced card. If a
+member asks for a quotable line, say there is none. Saying nothing about
 precedent is a passing run.

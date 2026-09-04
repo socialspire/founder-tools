@@ -4,7 +4,7 @@
     "name": "SocialSpire"
   },
   "description": "Courses of tools built from what history's greatest founders actually did. Install the course that matches your week.",
-  "version": "4.8.0",
+  "version": "4.8.1",
   "plugins": [
     {
       "name": "founder-led-sales",

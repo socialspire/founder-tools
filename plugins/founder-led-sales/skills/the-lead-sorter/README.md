@@ -1,6 +1,6 @@
 # The Lead Sorter
 
-Part of **Founder Led Sales**. Version 4.0.0
+Part of **Founder Led Sales**. Version 4.0.1
 
 You have open deals that will not close. People took the meeting, said it looked
 interesting, and went quiet. You are following up with all of them because you
