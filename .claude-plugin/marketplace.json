@@ -4,7 +4,7 @@
     "name": "SocialSpire"
   },
   "description": "Courses of tools built from what history's greatest founders actually did. Install the course that matches your week.",
-  "version": "4.9.0",
+  "version": "4.10.0",
   "plugins": [
     {
       "name": "founder-led-sales",
@@ -24,6 +24,27 @@
         "demo",
         "objections",
         "pricing",
+        "founder"
+      ]
+    },
+    {
+      "name": "getting-demand",
+      "displayName": "Getting Demand",
+      "source": "./plugins/getting-demand",
+      "description": "For a founder whose product works and whose problem is that not enough people know. Count what your marketing actually says and cut to one, prove the claim your price rests on, decide whether to repeat or replace, and turn advertising money into units in hands. Four skills, each carrying a bank of verified historical cases.",
+      "version": "1.0.0",
+      "author": {
+        "name": "SocialSpire"
+      },
+      "license": "UNLICENSED",
+      "category": "productivity",
+      "keywords": [
+        "marketing",
+        "messaging",
+        "demand",
+        "proof",
+        "advertising",
+        "positioning",
         "founder"
       ]
     }

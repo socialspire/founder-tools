@@ -36,7 +36,7 @@ question you still need goes in one block at the end.
 
 If they asked what to say, they leave with the sentence. A question of yours never
 buys silence: write the version their message supports, say what would change it,
-and put the question in the closing block.
+and put the question in one block at the end.
 
 Four hundred words of your own prose, at most. Drafted copy they paste or read
 aloud does not count against it. Over the line, cut explanation, never an action.
