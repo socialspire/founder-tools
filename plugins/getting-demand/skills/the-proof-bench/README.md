@@ -1,6 +1,6 @@
 # The Proof Bench
 
-Part of **Getting Demand**. Version 1.0.0
+Part of **Getting Demand**. Version 1.1.0
 
 Separates the claims on your page you can actually prove from the ones you are only asserting, then builds the sixty-second demonstration or the outside verdict that settles the one your price rests on.
 

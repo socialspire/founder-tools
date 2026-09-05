@@ -1,6 +1,6 @@
 # The Repetition Ledger
 
-Part of **Getting Demand**. Version 1.0.0
+Part of **Getting Demand**. Version 1.1.0
 
 Rules whether the thing you want to change is decaying or you are just bored of it, writes the number that retires it, and decides what to run ten times instead of what to try next.
 

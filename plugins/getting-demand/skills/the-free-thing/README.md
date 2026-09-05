@@ -1,6 +1,6 @@
 # The Free Thing
 
-Part of **Getting Demand**. Version 1.0.0
+Part of **Getting Demand**. Version 1.1.0
 
 Turns advertising money into units in people's hands, prices the giveaway before you promise it, and closes the exits where a prospect walks away with nothing.
 

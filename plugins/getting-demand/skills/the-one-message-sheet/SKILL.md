@@ -2,95 +2,96 @@
 name: the-one-message-sheet
 description: Counts how many different things your marketing is saying, rules which single one survives on the numbers attached to it, and names who that message is actually written for. Use for "how many things am I saying", "my messaging is all over the place", "nobody knows what we do", "we say too much", "what is my one message", "who is this actually for", "write my reader line", or before any rewrite of a homepage, a deck or an ad set.
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
   course: "Getting Demand"
   bank: "20 precedent cards"
 ---
 
 # The One Message Sheet
 
-## What the reply must contain
+## The reply
 
 **1. The ruling, in the first sentence.** Which message survives, which stop, and
 whether the ruling is provisional. Never open with what is working.
 
 **2. Every action written out, complete, with a trigger.** Every message printed in
-full, ready to paste, with a bracket only where the founder holds a fact you lack.
+full, ready to paste. A bracket holds only a fact the founder has and you cannot
+infer from what they wrote. Three brackets is the ceiling for a reply; a fourth means
+you have not decided enough — decide, and name what would change it. Then read the finished copy as the
+person who receives it: if a sentence would make them say they never agreed to
+that, or that it is not what happened, the run failed.
 
 **3. What would prove you wrong.** One observable event that would overturn the
-ruling, and the move if it happens. If assuming it true changes nothing, you wrote a
-caveat, not a falsifier.
+ruling, and the move if it happens.
 
-Everything else is your judgement. Ask a question only if the answer changes what you
-tell them to do.
+Ask a question only if the answer changes what you tell them to do, and never before
+ruling. Answer what they asked and nothing beside it: no test, reader line or
+precedent note they did not ask for.
 
-Four hundred words of your own prose, at most; drafted copy does not count.
+Three hundred and twenty words of your own prose, at most; drafted copy does not count.
 
-## Counting what they are saying
+## The count
 
-List every claim each asset makes about what the buyer gets before grouping. An asset
-carrying three claims contributes three.
+List every claim each asset makes about what the buyer gets before grouping; an asset
+carrying three claims contributes three. Two claims are the same only when a stranger
+reading both expects the same thing to happen to them: work finishes sooner and work
+takes less of your time are two promises.
 
-Two claims are the same only when a stranger reading both expects the same thing to
-happen to them: work finishes sooner and work takes less of your time are two
-promises.
+Rank by what is attached — a sale, a reply, a signup — never by preference, theirs or
+yours. Lift the surviving sentence from an asset carrying a number rather than writing
+a fresh one; where none carries one, lift it from the asset that drew the closest
+thing to a sale. Every other message stops. True is not the test. A price claim is
+not a claim about what the buyer gets.
 
-Rank by what is attached: a sale, a reply, a signup. Neither their preference nor
-yours ranks anything. Lift the surviving sentence from an asset carrying a number
-rather than writing a fresh one; where none carries one, lift it from the asset that
-drew the closest thing to a sale. Every other message stops, each named with what the
-reader skips past to reach the survivor. True is not the test. A price claim is not a
-claim about what the buyer gets.
+A figure from one or two customers is a case study attributed to them, never a
+headline or an ad line. Where their own figures contradict a number inside the
+survivor — an up-to claim above their median — the measured figure replaces it.
 
-Count everything they pasted, undated assets included; a missing date is only a
-question, and nothing is set aside for being unreadable.
+Count everything they pasted, undated or unreadable included.
 
-Three gates shape the survivor ruling. None of them stops you naming a survivor.
+Three gates shape the ruling; none delays it. Provisional is a ruling made now with
+the one event that would overturn it named beside it. It is never a ruling held until
+more arrives, and a claim the founder's own figures contradict is cut, not carried
+provisionally.
 
-Under eight published assets, count them, name the messages inside, and rule the
-survivor provisionally: three assets look like a pattern without being one. Say how
-few it rests on and what the next batch has to repeat.
+Under eight published assets, rule the survivor provisionally — three assets look like
+a pattern without being one — saying how few it rests on and what the next batch has
+to repeat.
 
 When no claim carries a number, the count still prints and the survivor is ruled on
-what evidence there is: the claim standing closest to a sale, a reply or a signup —
-the one that drew an enquiry, started a call, or came back in a buyer's own words. Say
-it is ruled on position rather than on a measured result, and that having sold nothing
-is a result, not a reason to withhold the count. Name the one number that would settle
-it — replies per hundred readers, signups per hundred visitors, sales per ten
-conversations — and the move that attaches it: which asset carries the survivor alone,
-for how long, counted where. The survivor is a sentence they already published, lifted
-as written; no number the founder has not measured enters the copy, here or anywhere.
+position: the claim that drew an enquiry, started a call, or came back in a buyer's
+own words. Say so, and that having sold nothing is a result, not a reason to withhold
+the count. The falsifier names, in one
+sentence, the number that would settle it — replies per hundred readers, signups per
+hundred visitors, sales per ten conversations — and where it gets counted.
 
-When two messages both carry numbers, the one attached to the outcome closest to a
-sale survives for now. Name the tie, run one asset on the second message for a fixed
-window, and name in advance the number that decides it.
+When two messages both carry numbers, the one nearer a sale survives now; name the
+tie, give the second one asset for a window you choose — weeks, never a bracket — and
+the number that decides it.
 
-No gate ends the run: rule on what they gave you, mark it provisional, name the one
-fact that would change it, and ask for it. A reply that decides nothing has failed.
+A reply that decides nothing has failed. Channel, platform and cadence are declined in
+one sentence; the message is ruled anyway.
 
-Channel, platform and cadence are declined in one sentence; the message is ruled
-anyway.
+## The reader
 
-## Who it is for
+The survivor is ruled now from the assets and numbers they gave; nothing about the
+reader gates it, and no interview precedes it. Write a reader line only if the founder
+asked who it is for, and write it as one sentence: the belief the buyer holds that
+makes the product make sense. A belief is not a need — the need is that reports take
+too long, the belief is that the report loses the client. Build it from the words of
+buyers on record, on the belief appearing most often; where no buyer words are on
+record, build it from what they gave and mark it as your read. An age, a job title, a
+company-size band or a country says who buyers are, never what they believe.
 
-Five real people who paid, named, with their own words, is the standard — five names
-with four sets of words still runs. Below it the reader line is still written, from
-the buyers on record, marked as resting on that many, with the ask named: the next
-buyers, and the question that gets their words. An age, a job title, a company-size
-band or a country says who buyers are, never what they believe; say so and rule from
-the words those buyers used.
+Interviews — five buyers who paid, asked what they believed before buying — are the
+follow-up that confirms or overturns the line, never a gate on it; name that move
+once, in the falsifier. If they pasted targeting settings, strike each one the belief
+does not support and name what replaces it, or say it comes off.
 
-Write the belief each of them held that made the product make sense. A belief is not a
-need — the need is that reports take too long, the belief is that the report loses the
-client. Build the line from the belief appearing in three or more; where none reaches
-three, build it from the strongest belief on record, say how few it rests on, and ask
-for the next five. Their real alternative is a spreadsheet, a junior hire or nothing,
-never a rival's price. Strike every live targeting setting the belief does not support
-and name what replaces it, or say nothing does and it comes off.
+## Not on record
 
-## What is not on record
-
-Say the one that fits, as an absence, never a verdict.
+Only when the founder asked about precedent, or the reply was about to cite a case,
+say the one that fits, as an absence, never a verdict. Otherwise nothing.
 
 No founder in the bank ever counted his own published claims, and no case attaches a
 number to an individual claim — Ogilvy's nineteen-to-one compares finished ads, not
@@ -103,25 +104,27 @@ exist only inside the cards that carry them.
 
 ## Rules
 
-Every fact inside a drafted message, and every line that goes on a page, traces to
-the founder's own words. Never invent a number, date, weekday, deadline, price,
-targeting setting, buyer's belief, or claim about what their product does, and never
-say something already exists or already happened unless they said so. Never print a
-count you did not receive. A number that would settle a ruling is named as the number
-to go and get, never written into copy as though it had come back. Before printing,
-read every sentence asserting something about the founder or their business and find
-their words for it; bracket it or cut it.
+Every fact inside a drafted message, and every line that goes on a page,
+traces to the founder's own words. Never invent a
+number, date, weekday, deadline, price, targeting setting, buyer's belief, or claim
+about what their product does, and never say something already exists or already
+happened unless they said so. Never print a count you did not receive. Every figure
+the founder gave is in the reply, either inside the ruling or set aside with one
+clause saying why. A number they typed and you did not use is a number you dropped,
+and any qualifier they attached to it travels with it.
 
 Nothing you draft for a page, a post or an offer carries a commercial term the
 founder did not state: not a price, a deadline, a quantity, a discount, a guarantee,
 a refund, a return, a delivery time, a payment or deposit term, a resource hold, or a
-scarcity line. Where the copy needs one, leave a bracket naming what belongs there.
+scarcity line — nor a capability, a deliverable, a thing the founder makes or does,
+or a rule presented as established when it is your own arithmetic. Where the copy
+needs one, leave a bracket naming what belongs there.
 
-A quantity given in words stays their word in prose and becomes, in a count, the
-range their message supports, marked provisional. When no date resolves, write the
-trigger instead: before you next touch the site, on your next call with a buyer. Then
-read the finished copy as the person who receives it: if a sentence would make them
-say they never agreed to that, or that it is not what happened, the run failed.
+A quantity given in words stays their word in prose and, in a count, becomes the
+range it supports. When no date resolves, write the trigger: before you next touch
+the site, on your next buyer call. Read the finished copy as its recipient: if a line
+makes them say they never agreed to that, or that it is not what happened, the run
+failed.
 
 You may use what you know about the buyer's trade: how those businesses run, what
 they are inspected on, what they already pay for, who signs. Mark it once where it

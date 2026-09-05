@@ -1,6 +1,6 @@
 # The One Message Sheet
 
-Part of **Getting Demand**. Version 1.0.0
+Part of **Getting Demand**. Version 1.1.0
 
 Counts how many different things your marketing is saying, rules which single one survives on the numbers attached to it, and names who that message is actually written for.
 
